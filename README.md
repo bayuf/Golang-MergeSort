@@ -1,2 +1,2 @@
 # Golang-MergeSort
-Implementasi Algortima MergeSort dengan menggunakan bahasa Pemrograman Go
+Implementasi Algoritma MergeSort dengan menggunakan bahasa Pemrograman Go
